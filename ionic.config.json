@@ -1,0 +1,8 @@
+{
+  "name": "coffee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "9e621487"
+}
